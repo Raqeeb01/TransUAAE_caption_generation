@@ -6,7 +6,7 @@ Captioning Whole Slide Images (WSIs) for pathological analysis is an essential b
 </div>
 
 <div align="center">
-    <img src="Figures/System_architecture.jpg" alt="Alt text" title="Hover text" height="400" width="500"/>
+    <img src="TransUAAE-CapGen-main/Figures/System_architecture.jpg" alt="Alt text" title="Hover text" height="400" width="500"/>
     <p><em>Figure 1: Architecture of our proposed TransUAAE-CapGen  model for histopathological caption generation.</em></p>
 </div>
 
@@ -15,11 +15,11 @@ Captioning Whole Slide Images (WSIs) for pathological analysis is an essential b
   <table>
     <tr>
       <td>
-        <img src="Figures/training_loss.jpg" alt="Training Loss" width="400"/>
+        <img src="TransUAAE-CapGen-main/Figures/training_loss.jpg" alt="Training Loss" width="400"/>
         <p align="center">(a) Training Loss</p>
       </td>
       <td>
-        <img src="Figures/validation_loss.jpg" alt="Validation Loss" width="400"/>
+        <img src="TransUAAE-CapGen-main/Figures/validation_loss.jpg" alt="Validation Loss" width="400"/>
         <p align="center">(b) Validation Loss</p>
       </td>
     </tr>
