@@ -28,6 +28,6 @@ Captioning Whole Slide Images (WSIs) for pathological analysis is an essential b
 </div>
 
 ## Contact
-Abdul Raqeeb Mohammad, Master of Engineering
+Abdul Raqeeb Mohammad, Master of Engineering, ar3moham@uwaterloo.ca
 Department of Electrical and Computer Engineering || University of Waterloo (UW)  
 
